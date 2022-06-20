@@ -1,8 +1,8 @@
-import numpy
+""" Main file """
+
 import pandas
 
 pandas.DataFrame()
-numpy.datetime64()
 
 
 print("hello")
